@@ -3,4 +3,4 @@ project(2semester_lab5)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(2semester_lab5 main.cpp binary_search_tree.h)
+add_executable(2semester_lab5 main.cpp)
